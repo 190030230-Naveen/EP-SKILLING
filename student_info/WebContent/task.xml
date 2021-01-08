@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students_info SYSTEM "task.dtd">
+<students_info>
+	<student>
+		<no>190030230</no>
+		<name>Naveen</name>
+		<email>190030230@kl.in</email>
+		<marks>94</marks>
+		<class>CSE 1B</class>
+	</student>
+	<student>
+		<no>190031479</no>
+		<name>Sharooq</name>
+		<email>190031479@kl.in</email>
+		<marks>91</marks>
+		<class>CSE 1B</class>
+	</student>
+	<student>
+		<no>190031506</no>
+		<name>Sadiq</name>
+		<email>190031506@kl.in</email>
+		<marks>93</marks>
+		<class>CSE 1B</class>
+	</student>
+	<student>
+		<no>190031799</no>
+		<name>Surya</name>
+		<email>190031799@kl.in</email>
+		<marks>90</marks>
+		<class>CSE 1B</class>
+	</student>
+</students_info>
